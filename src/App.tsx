@@ -146,7 +146,7 @@ function MainApp() {
             <div className="bg-blue-600 p-1.5 rounded-lg overflow-hidden">
               {/* Replace with your uploaded logo */}
               <img 
-                src="317771283_101598936132723_2305022834363852378_n.jpg" 
+                src="/317771283_101598936132723_2305022834363852378_n.jpg" 
                 className="w-10 h-10 object-contain" 
                 alt="Drainman Logo"
                 referrerPolicy="no-referrer"
@@ -564,7 +564,7 @@ function MainApp() {
                 <div className="bg-blue-600 p-1.5 rounded-lg overflow-hidden">
                   {/* Replace with your uploaded logo */}
                   <img 
-                    src="317771283_101598936132723_2305022834363852378_n.jpg" 
+                    src="/317771283_101598936132723_2305022834363852378_n.jpg" 
                     className="w-8 h-8 object-contain" 
                     alt="Drainman Logo"
                     referrerPolicy="no-referrer"
